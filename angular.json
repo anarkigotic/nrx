@@ -120,5 +120,8 @@
       }
     }
   },
-  "defaultProject": "Laboratorios"
+  "defaultProject": "Laboratorios",
+  "cli": {
+    "analytics": "413f0324-dda1-4fdb-a481-216755591d2f"
+  }
 }
